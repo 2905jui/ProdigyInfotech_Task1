@@ -1,2 +1,2 @@
-# ProdigyInfotech_Task1
+# ProdigyInfotech
 It conatin the Internship task of data science 
